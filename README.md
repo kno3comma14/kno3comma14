@@ -1,9 +1,9 @@
 <h1 align="center">Enyert Vinas</h1>
-<h3 align="center">Software developer</h3>
+<h3 align="center">Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kno3comma14" alt="kno3comma14" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kno3comma14" alt="kno3comma14" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/enyert" target="blank"><img src="https://img.shields.io/twitter/follow/enyert?logo=twitter&style=for-the-badge" alt="enyert" /></a> </p>
+<p align="center"> <a href="https://twitter.com/enyert" target="blank"><img src="https://img.shields.io/twitter/follow/enyert?logo=twitter&style=for-the-badge" alt="enyert" /></a> </p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
